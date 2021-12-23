@@ -1,0 +1,136 @@
+{
+  "workspaces": {
+    "工作区全局监控布局": {
+      "main": {
+        "id": "d78226a95fd0283e",
+        "type": "split",
+        "children": [
+          {
+            "id": "bde6669a3ce2097a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作区/加工中.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "1124699a29263611",
+            "type": "split",
+            "children": [
+              {
+                "id": "182832592afa142d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工作区/基本完成.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "d30d4e5bcc5648fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工作区/存在问题.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ee9492de0ad531ae",
+        "type": "split",
+        "children": [
+          {
+            "id": "8bee721ddc98c0a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "27b73eb8b93d8479",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f99bf2b587f7c0fa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "15233bbe0b8cee61",
+        "type": "split",
+        "children": [
+          {
+            "id": "c4930ce1b277368b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ced3a94ccd567289",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "工作区/存在问题.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e437314dd5548053",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "工作区/存在问题.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "d30d4e5bcc5648fe"
+    }
+  },
+  "active": "工作区全局监控布局"
+}

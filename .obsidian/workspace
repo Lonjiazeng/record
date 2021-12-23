@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e2cf1aeecf001e5a",
+        "id": "e5e1b208f084610d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "算法/概念/基本情况（base case）.md",
-            "mode": "source"
+            "file": "工作区/加工中.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/概念/基本情况（base case）.md",
+                "file": "工作区/加工中.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/概念/基本情况（base case）.md",
+                "file": "工作区/加工中.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -95,16 +95,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e2cf1aeecf001e5a",
+  "active": "e5e1b208f084610d",
   "lastOpenFiles": [
-    "算法/概念/基本情况（base case）.md",
-    "算法/分治.md",
-    "算法/概念/递归情况（recursive case）.md",
-    "算法/概念/合并（cimbine）.md",
-    "算法/概念/分解（Devide）.md",
-    "算法/概念/解决（conquer）.md",
-    "模板/简易模板.md"
+    "工作区/加工中.md",
+    "工作区/存在问题.md",
+    "工作区/基本完成.md",
+    "markdown/latex/积分、求和、求积.md",
+    "markdown/latex/指数和下标.md",
+    "markdown/latex/向量（Vector）.md",
+    "markdown/latex/水平大括号.md",
+    "markdown/latex/上、下划线.md",
+    "markdown/latex/分数.md",
+    "markdown/latex/平方根.md"
   ]
 }
