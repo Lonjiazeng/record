@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e1b208f084610d",
+        "id": "bde6669a3ce2097a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "常用数学公式.md",
+            "file": "工作区/加工中.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4f3f39640d454ae0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "markdown/latex/小写希腊字母.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常用数学公式.md",
+                "file": "markdown/latex/小写希腊字母.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常用数学公式.md",
+                "file": "markdown/latex/小写希腊字母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -98,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5e1b208f084610d",
+  "active": "4f3f39640d454ae0",
   "lastOpenFiles": [
-    "常用数学公式.md",
-    "markdown/latex/分数.md",
-    "markdown/latex/积分、求和、求积.md",
-    "markdown/latex/指数和下标.md",
-    "markdown/latex/水平大括号.md",
+    "markdown/latex/小写希腊字母.md",
     "工作区/加工中.md",
+    "模板/简易模板.md",
+    "markdown/latex/积分、求和、求积.md",
     "工作区/存在问题.md",
     "工作区/基本完成.md",
-    "markdown/latex/向量（Vector）.md",
-    "markdown/latex/上、下划线.md"
+    "markdown/latex/大写希腊字母.md",
+    "算法/分治（Devide and Conquer）.md",
+    "markdown/latex/常用数学公式.md",
+    "markdown/latex/lshort-cn.pdf"
   ]
 }
