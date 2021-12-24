@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作区/加工中.md",
-            "mode": "preview"
+            "file": "常用数学公式.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作区/加工中.md",
+                "file": "常用数学公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作区/加工中.md",
+                "file": "常用数学公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -100,15 +100,15 @@
   },
   "active": "e5e1b208f084610d",
   "lastOpenFiles": [
+    "常用数学公式.md",
+    "markdown/latex/分数.md",
+    "markdown/latex/积分、求和、求积.md",
+    "markdown/latex/指数和下标.md",
+    "markdown/latex/水平大括号.md",
     "工作区/加工中.md",
     "工作区/存在问题.md",
     "工作区/基本完成.md",
-    "markdown/latex/积分、求和、求积.md",
-    "markdown/latex/指数和下标.md",
     "markdown/latex/向量（Vector）.md",
-    "markdown/latex/水平大括号.md",
-    "markdown/latex/上、下划线.md",
-    "markdown/latex/分数.md",
-    "markdown/latex/平方根.md"
+    "markdown/latex/上、下划线.md"
   ]
 }
