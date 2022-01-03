@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作区/加工中.md",
+            "file": "markdown/latex/常用数学公式.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "4f3f39640d454ae0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown/latex/小写希腊字母.md",
-            "mode": "source"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/latex/小写希腊字母.md",
+                "file": "markdown/latex/常用数学公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown/latex/小写希腊字母.md",
+                "file": "markdown/latex/常用数学公式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f3f39640d454ae0",
+  "active": "bde6669a3ce2097a",
   "lastOpenFiles": [
-    "markdown/latex/小写希腊字母.md",
+    "markdown/latex/常用数学公式.md",
     "工作区/加工中.md",
+    "markdown/latex/小写希腊字母.md",
     "模板/简易模板.md",
     "markdown/latex/积分、求和、求积.md",
     "工作区/存在问题.md",
     "工作区/基本完成.md",
     "markdown/latex/大写希腊字母.md",
     "算法/分治（Devide and Conquer）.md",
-    "markdown/latex/常用数学公式.md",
     "markdown/latex/lshort-cn.pdf"
   ]
 }
