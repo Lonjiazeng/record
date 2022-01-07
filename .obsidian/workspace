@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bde6669a3ce2097a",
+        "id": "b71576a3cf72caee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown/latex/常用数学公式.md",
+            "file": "计算机组成与设计/概念/处理器.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cpu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown/latex/常用数学公式.md",
+                "file": "计算机组成与设计/概念/处理器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -85,30 +85,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown/latex/常用数学公式.md",
-                "linksCollapsed": false,
+                "file": "计算机组成与设计/概念/处理器.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "bde6669a3ce2097a",
+  "active": "b71576a3cf72caee",
   "lastOpenFiles": [
-    "markdown/latex/常用数学公式.md",
-    "工作区/加工中.md",
-    "markdown/latex/小写希腊字母.md",
-    "模板/简易模板.md",
-    "markdown/latex/积分、求和、求积.md",
-    "工作区/存在问题.md",
-    "工作区/基本完成.md",
-    "markdown/latex/大写希腊字母.md",
-    "算法/分治（Devide and Conquer）.md",
-    "markdown/latex/lshort-cn.pdf"
+    "计算机组成与设计/概念/处理器.md",
+    "计算机组成与设计/概念/易失性存储器.md",
+    "计算机组成与设计/计算机组成与设计：软硬件接口/第一章 计算机概要与技术.md",
+    "计算机组成与设计/概念/非易失性存储器.md",
+    "计算机组成与设计/未命名.md",
+    "计算机组成与设计/概念/体系结构的实现.md",
+    "markdown/latex/指数和下标.md",
+    "计算机组成与设计/概念/应用二进制接口.md",
+    "计算机组成与设计/概念/指令集体系结构.md",
+    "计算机组成与设计/概念/SRAM.md"
   ]
 }
