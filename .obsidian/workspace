@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b71576a3cf72caee",
+        "id": "fa6caf42bce4e2f0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "计算机组成与设计/计算机组成与设计：软硬件接口/04第四章 处理器.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,17 +98,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b71576a3cf72caee",
+  "active": "fa6caf42bce4e2f0",
   "lastOpenFiles": [
     "计算机组成与设计/计算机组成与设计：软硬件接口/04第四章 处理器.md",
-    "概念/分支发生.md",
-    "概念/延迟的分支.md",
-    "概念/分支未发生.md",
-    "概念/分支目标地址.md",
-    "概念/R型指令.md",
-    "概念/符号拓展.md",
-    "概念/数据通路部件.md",
-    "概念/寄存器堆.md",
-    "概念/程序计数器.md"
+    "图库/图4-15.jpg",
+    "图库/图4-2.jpg",
+    "图库/图4-14.jpg",
+    "形式语言与自动机/00 概论.md",
+    "概念/正闭包.md",
+    "概念/克林闭包.md",
+    "markdown/latex/常用数学公式.md",
+    "概念/字符串的长度.md",
+    "概念/字符串x的n次幂.md"
   ]
 }
